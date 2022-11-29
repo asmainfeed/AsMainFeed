@@ -1,7 +1,13 @@
-### Hi there 👋
+[![Top Langs](http://github-readme-stats-gamma-murex-66.vercel.app/api/top-langs?username=samfedenia&layout=compact?hide=html,css)](https://github.com/samfedenia/github-readme-stats)
+
 
 <!--
 **samfedenia/samfedenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+github-readme-stats-url: http://github-readme-stats-gamma-murex-66.vercel.app/
+
+<a href="https://github.com/samfedenia/jampack">
+  <img align="center" src="http://github-readme-stats-gamma-murex-66.vercel.app/api/pin?username=samfedenia&repo=jampack" />
+</a>
 
 Here are some ideas to get you started:
 

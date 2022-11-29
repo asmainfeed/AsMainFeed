@@ -1,4 +1,4 @@
-[![Top Langs](http://github-readme-stats-gamma-murex-66.vercel.app/api/top-langs?username=samfedenia&layout=compact?hide=html,css)](https://github.com/samfedenia/github-readme-stats)
+[![Top Langs](http://github-readme-stats-gamma-murex-66.vercel.app/api/top-langs?username=samfedenia&layout=compact&hide=html,css)](https://github.com/samfedenia/github-readme-stats)
 
 
 <!--

@@ -1,7 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/samfedenia/github-readme-stats">
   <img align="center" src="http://github-readme-stats-gamma-murex-66.vercel.app/api/top-langs?username=samfedenia&layout=compact&hide=html,css&show_icons=true&theme=dracula&bg_color=00000000" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/samfedenia/github-readme-stats">
   <img align="center" src="https://github-readme-stats-gamma-murex-66.vercel.app/api?username=samfedenia&hide=stars&theme=dracula&bg_color=00000000" />
 </a>
 
